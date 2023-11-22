@@ -1,0 +1,27 @@
+body
+{
+    page-break-inside: auto;
+}
+button 
+{
+  width: 100px;
+  height: 100px; 
+ border: 1px solid white; 
+ border-radius: 30px;
+  background-color:white; 
+}   
+tr{
+  margin-top: 5px;
+    border:white;
+    background-color:white;
+}     
+  button:hover 
+    { 
+        background-color: #e6cc0e;
+ }
+ h1{
+  color: rgb(138, 5, 5);
+ }
+ table{
+  background-color:rgb(0, 0, 0);
+ }
